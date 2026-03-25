@@ -56,8 +56,8 @@ layers:
   - $$mdi:volume-off$$
   - $$mdi:backspace-reverse-outline$$
   - $$mdi:keyboard-esc$$
-  - $$mdi:apple-keyboard-shift$$
   - $$mdi:apple-keyboard-command$$
+  - $$mdi:apple-keyboard-shift$$
   - $$mdi:keyboard-space$$
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
