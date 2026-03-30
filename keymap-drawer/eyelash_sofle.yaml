@@ -38,7 +38,7 @@ layers:
   - J
   - K
   - L
-  - {t: ;, s: ':'}
+  - $$mdi:keyboard-esc$$
   - $$mdi:apple-keyboard-option$$
   - $$mdi:apple-keyboard-shift$$
   - Z
@@ -51,7 +51,7 @@ layers:
   - M
   - {t: ',', s: <}
   - {t: ., s: '>'}
-  - $$mdi:keyboard-esc$$
+  - {t: ;, s: ':'}
   - $$mdi:apple-keyboard-control$$
   - $$mdi:volume-off$$
   - $$mdi:backspace-reverse-outline$$
